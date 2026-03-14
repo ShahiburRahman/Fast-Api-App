@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+app/__init__.py
+app/main.py
+fast_api_app.egg-info/PKG-INFO
+fast_api_app.egg-info/SOURCES.txt
+fast_api_app.egg-info/dependency_links.txt
+fast_api_app.egg-info/requires.txt
+fast_api_app.egg-info/top_level.txt
+tests/test_main.py
